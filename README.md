@@ -7,7 +7,7 @@
 
 ## **Parameters**
 
-&emsp;&emsp; **_img**: 3D image data, which is a **numpy** array in **np.uint8** format.The value is**255** or **0**(foreground of background)
+&emsp;&emsp; **_img**: 3D image data, which is a **numpy** array in **np.uint8** format.The value is **255** or **0** (foreground or background)
  
 &emsp;&emsp;**setting_color** : select the color of foreground，by default **"silver"**."red"、"green" and "blue" are also available
 
