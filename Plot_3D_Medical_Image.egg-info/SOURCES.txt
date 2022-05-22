@@ -1,0 +1,8 @@
+README.md
+setup.py
+Medical_Image_Plot/__init__.py
+Medical_Image_Plot/vtk_plot.py
+Plot_3D_Medical_Image.egg-info/PKG-INFO
+Plot_3D_Medical_Image.egg-info/SOURCES.txt
+Plot_3D_Medical_Image.egg-info/dependency_links.txt
+Plot_3D_Medical_Image.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Plot-3D-Medical-Image
+Version: 0.0.1
+Summary: Plot Medical Image.
+Home-page: https://github.com/DreamthreePi/Medical_Image_Plot.git
+Author: Pi
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Medical_Image_Plot
