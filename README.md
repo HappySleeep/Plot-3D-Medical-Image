@@ -1,7 +1,7 @@
 # Plot-3D-Medical-Image
   This tool is used for plot 3D-mask from medical images.
 ```
-                                               def plot_3D(_img, setting_color='silver', Spacing=None)
+                              def plot_3D(_img, setting_color='silver', Spacing=None)
 ```
 &emsp;&emsp;The function has three parameters：_img、setting_color and Spacing
 
@@ -27,7 +27,7 @@
 ## **Install**
 
 ```
-                                                         pip install Plot-3D-Medical-Image
+                        pip install Plot-3D-Medical-Image
 ```
 ## **Example**
 ```
